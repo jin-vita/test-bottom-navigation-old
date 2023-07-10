@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestBottomNavigationOld</string>
+
+    <string name="first">FIRST</string>
+    <string name="second">SECOND</string>
+    <string name="third">THIRD</string>
+    <string name="fourth">FOURTH</string>
 </resources>
